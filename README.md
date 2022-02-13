@@ -16,8 +16,8 @@
 
 **URL:**  
 **Twitter:** https://twitter.com/QuakTec  
-**Price:** ?  
-**Availability:**
+**Price:** TBD  
+**Availability:** In development.
 
 ![MiSTerKiSTe PCB in ITX case](images/misterkiste.png)
 
@@ -27,7 +27,7 @@
 **URL:** https://misteraddons.com/blogs/news/time-flies-when-youre-having-fun  
 **Twitter:** https://twitter.com/MisterAddons  
 **Price:** TBD  
-**Availability:**
+**Availability:** In development.
 
 ![MiSTer Express PCB render](images/mister-express.png)
 
@@ -36,8 +36,8 @@
 
 **URL:** https://www.d3fmod.com/mini-itx-ironclad-plus/  
 **Twitter:** https://twitter.com/d3fmod  
-**Price:** €150.– (CHF 160.–)  
-**Availability:** Out of stock
+**Price:** €165.–  
+**Availability:** Available
 
 ![Mini-ITX Ironclad Plus PCB with back panel](images/d3fmod-mister-mini-itx-ironclad-plus.png)
 
@@ -46,8 +46,8 @@
 
 **URL:** https://misteraddons.com/products/mistercade  
 **Twitter:** https://twitter.com/MisterAddons  
-**Price:** $185  
-**Availability:** Sold out
+**Price:** $225  
+**Availability:** Available
 
 ![MiSTerCade PCB](images/mister-addons-mistercade.jpg)
 
@@ -56,7 +56,7 @@
 
 **URL:** https://irkenlabs.com/jamma-expander/introduction  
 **Twitter:** https://twitter.com/IrkenLabs  
-**Price:** NOK 1’550 (CHF 165.–)  
+**Price:** NOK 1’750    
 **Availability:** Restock Dec 2021
 
 ![JAMMA Expander PCB with cables](images/irkenlabs-jamma-expander.png)
@@ -66,7 +66,7 @@
 
 **URL:** https://rmcretro.store/mister-multisystem/  
 **Twitter:** https://twitter.com/RMCretro  
-**Price:** £176 (CHF 218.–)  
-**Availability:** Q2 2022
+**Price:** £176  
+**Availability:** Batch #3 to be announced.
 
 ![MiSTer Multisystem PCB](images/mister-multisystem.png)
