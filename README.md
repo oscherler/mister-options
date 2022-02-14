@@ -6,7 +6,7 @@
 
 **URL:** [https://www.jammix.io/](https://www.jammix.io/)  
 **Twitter:** [@JammixO](https://twitter.com/JammixO)  
-**Price:** USD 225  
+**Price:** [USD 225](https://duckduckgo.com/?q=usd+225+in+eur)  
 **Availability:** Available (Nov. 2021)
 
 ![Jammix PCB](images/jammix.png)
@@ -36,7 +36,7 @@
 
 **URL:** [https://www.d3fmod.com/mini-itx-ironclad-plus/](https://www.d3fmod.com/mini-itx-ironclad-plus/)  
 **Twitter:** [@d3fmod](https://twitter.com/d3fmod)  
-**Price:** EUR 165 (USD 187)  
+**Price:** [EUR 165](https://duckduckgo.com/?q=eur+165+in+usd) (USD 187)  
 **Availability:** Available
 
 ![Mini-ITX Ironclad Plus PCB with back panel](images/d3fmod-mister-mini-itx-ironclad-plus.png)
@@ -46,7 +46,7 @@
 
 **URL:** [https://misteraddons.com/products/mistercade](https://misteraddons.com/products/mistercade)  
 **Twitter:** [@MisterAddons](https://twitter.com/MisterAddons)    
-**Price:** USD 225  
+**Price:** [USD 225](https://duckduckgo.com/?q=usd+225+in+eur)  
 **Availability:** Available
 
 ![MiSTerCade PCB](images/mister-addons-mistercade.jpg)
@@ -56,7 +56,7 @@
 
 **URL:** https://irkenlabs.com/jamma-expander/introduction  
 **Twitter:** [@IrkenLabs](https://twitter.com/IrkenLabs)  
-**Price:** NOK 1’750 (USD 197)    
+**Price:** [NOK 1’750](https://duckduckgo.com/?q=nok+1750+in+usd) (USD 197)    
 **Availability:** Available
 
 ![JAMMA Expander PCB with cables](images/irkenlabs-jamma-expander.png)
@@ -66,7 +66,7 @@
 
 **URL:** [https://rmcretro.store/mister-multisystem/](https://rmcretro.store/mister-multisystem/)  
 **Twitter:** [@RMCretro](https://twitter.com/RMCretro)  
-**Price:** GPB 176 (USD 238)  
+**Price:** [GPB 176](https://duckduckgo.com/?q=gbp+176+in+usd) (USD 238)  
 **Availability:** Batch #3 to be announced.
 
 ![MiSTer Multisystem PCB](images/mister-multisystem.png)
