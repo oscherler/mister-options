@@ -70,3 +70,13 @@
 **Availability:** Batch #3 to be announced.
 
 ![MiSTer Multisystem PCB](images/mister-multisystem.png)
+
+
+## XTREME-MISTER FPGA
+
+**URL:** [http://xtrememister.com/](http://xtrememister.com/)  
+**Twitter:** [@xtreme_mister](https://twitter.com/xtreme_mister)  
+**Price:** TBD  
+**Availability:** In development.
+
+![XTREME-MISTER FPGA PCB in case](images/extreme-mister.jpg)
